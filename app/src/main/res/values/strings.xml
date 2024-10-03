@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+
+    <!-- Time Periods for the Payment Frequency -->
+    <string-array name="time_period_array">
+        <item>Yearly</item>
+        <item>Monthly</item>
+        <item>Bi-Weekly</item>
+    </string-array>
+</resources>
